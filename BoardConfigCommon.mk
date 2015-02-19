@@ -150,8 +150,6 @@ TARGET_LDPRELOAD := libNimsWrap.so
 endif
 endif
 
-WITH_DEXPREOPT := true
-
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := device/oppo/msm8974-common
 
