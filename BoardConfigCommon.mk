@@ -152,6 +152,9 @@ endif
 
 WITH_DEXPREOPT := true
 
+# Releasetools
+TARGET_RELEASETOOLS_EXTENSIONS := device/oppo/msm8974-common
+
 # SELinux policies
 # qcom sepolicy
 include device/qcom/sepolicy/sepolicy.mk
